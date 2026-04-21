@@ -1,6 +1,6 @@
 # ShiftSwap
 
-ShiftSwap is a simple ASP.NET Core Web API for managing employee shifts and shift swap requests. It supports user registration/login, shift creation, update, deletion, and swap request workflows (create, approve, reject, cancel, accept).
+ShiftSwap is a simple ASP.NET Core Web API for managing employee shifts and shift swap requests. It supports user registration/login, shift creation, update, deletion, and swap request workflows (create, approve, reject, cancel, accept). 
 
 ## Features
 
